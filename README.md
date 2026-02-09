@@ -8,10 +8,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-Overview
+## Overview
 Artship is a comprehensive Laravel-based e-learning platform designed specifically for art education. It enables artists to teach and learn art through structured courses while providing tools for course management, progress tracking, and community engagement through artwork sharing.
 
-Features:
+##Features:
 
 Course Management
 Admin Course Control: Create, edit, and delete art courses
@@ -27,7 +27,7 @@ Artwork Submission: Students can upload their final artworks at course completio
 Featured Gallery: Admins can showcase exceptional student artworks on a featured page
 Social Engagement: Users can like and appreciate featured artworks with visible like counts
 
-Technology Stack:
+##Technology Stack:
 
 Backend
 Laravel 10 - PHP Framework
@@ -40,23 +40,23 @@ JavaScript - Interactive features
 CSS3 - Custom styling
 
 
-Key Integrations:
+##Key Integrations:
 
 File Upload System - For thumbnails, PDFs, and artwork images
 Video Embedding - Support for YouTube/Vimeo integration
 Authentication System - User registration and role-based access (Admin/Student)
 
-Architecture:
+##Architecture:
 
 MVC Pattern - Clean separation of concerns
 RESTful Routing - Logical URL structure
 Middleware Protection - Route protection and validation
 Eloquent Relationships - Efficient database modeling
 
-Contributing:
+##Contributing:
 This is a BRACU Software Engineering project (CSE470) demonstrating full-stack web development with Laravel. Feel free to explore the codebase for educational purposes.
 
-License:
+##License:
 This project is for portfolio purposes. All rights reserved.
 
 Artship represents a complete e-learning solution built with modern web development practices, focusing on providing a seamless experience for both art educators and students while fostering a creative community.
